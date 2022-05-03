@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.TrabalhoFinal.BackEnd.BanckEnd.BanckEndApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.656 s - in br.TrabalhoFinal.BackEnd.BanckEnd.BanckEndApplicationTests
